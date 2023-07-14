@@ -99,7 +99,7 @@ class GamingPc{
 
     }
     this.memoryswap = function(){
-      console.log(`your swapping in and out of ${this.memory}`)
+      console.log(`your now swapping in and out of ${this.memory}`)
 
     }
 
